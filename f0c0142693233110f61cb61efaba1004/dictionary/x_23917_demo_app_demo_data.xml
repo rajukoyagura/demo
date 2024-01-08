@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0911d06693633110f61cb61efaba10c9" label="Demo Data" max_length="40" name="x_23917_demo_app_demo_data" type="collection">
-        <element label="Active" max_length="40" name="active" type="string"/>
+        <element label="Active" max_length="40" name="active" type="boolean"/>
         <element display="true" label="Name" max_length="40" name="name" type="string"/>
     </element>
 </database>
